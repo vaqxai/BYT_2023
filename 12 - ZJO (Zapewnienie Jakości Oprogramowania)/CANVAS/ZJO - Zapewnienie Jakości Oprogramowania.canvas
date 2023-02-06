@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"cc43bfa809968912","x":-395,"y":-2110,"width":738,"height":2308,"color":"1","type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Zapewnienie jakości oprogramowania.md"},
+		{"id":"b4467931cbd89f33","x":-151,"y":-2413,"width":250,"height":60,"type":"text","text":"# Standardy"},
+		{"id":"63975c0b6e8aead8","x":500,"y":-489,"width":589,"height":550,"type":"file","file":"Inżynieria Oprogramowania/15 - Zarządzanie Projektem/Podejście procesowe do zarządzania jakości.md"},
+		{"id":"16172bfcc4de1809","x":315,"y":-3325,"width":590,"height":628,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/IEEE-730.md"},
+		{"id":"d161b5ae25e09546","x":-321,"y":-3651,"width":589,"height":954,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Model jakości ISO 9126.md"},
+		{"id":"9d62f3a66b150417","x":-1159,"y":-3190,"width":752,"height":493,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Jakość w ISO 9000.md"},
+		{"id":"e57cddd7638e112f","x":-1454,"y":-2110,"width":752,"height":453,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/TQM - Zarządzanie przez jakość.md"},
+		{"id":"70620cdbdf83325c","x":-1454,"y":-1532,"width":590,"height":1343,"color":"2","type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Zadania personelu ZJO.md"},
+		{"id":"4c9d6e10ee110503","x":655,"y":-1542,"width":589,"height":507,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Zadania zapewnienia jakości.md"},
+		{"id":"1f897bd6ec9e9314","x":655,"y":-2167,"width":589,"height":568,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Polityka i system jakości.md"},
+		{"id":"14da417f589a37ae","x":1244,"y":-689,"width":819,"height":1098,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Plan zarządzania jakością oprogramowania (PZJO).md"},
+		{"id":"6c76432ef0be331c","x":2196,"y":-560,"width":691,"height":509,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Załączniki/PZJO 2.png"},
+		{"id":"23c38d519784dad1","x":2195,"y":-51,"width":691,"height":328,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Załączniki/PZJO 2 1.png"},
+		{"id":"8d76129e273644e3","x":-84,"y":409,"width":638,"height":686,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Ocena dojrzałości procesów wytwórczych.md"},
+		{"id":"5045c9277f1b5e65","x":-281,"y":1283,"width":624,"height":560,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Model dojrzałości procesu wytwórczego.md"},
+		{"id":"6dbb170d5abc55b1","x":-702,"y":409,"width":485,"height":496,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Główne czynniki poprawy jakości.md"}
+	],
+	"edges":[
+		{"id":"bffcbe00b7efc913","fromNode":"cc43bfa809968912","fromSide":"right","toNode":"1f897bd6ec9e9314","toSide":"left"},
+		{"id":"54521df63fd5ff26","fromNode":"cc43bfa809968912","fromSide":"right","toNode":"4c9d6e10ee110503","toSide":"left"},
+		{"id":"cd5f136aed9a16de","fromNode":"63975c0b6e8aead8","fromSide":"right","toNode":"14da417f589a37ae","toSide":"left"},
+		{"id":"42a9862100bde71f","fromNode":"cc43bfa809968912","fromSide":"right","toNode":"63975c0b6e8aead8","toSide":"left"},
+		{"id":"70e42a3e71ccc3af","fromNode":"14da417f589a37ae","fromSide":"right","toNode":"6c76432ef0be331c","toSide":"left"},
+		{"id":"d77de5d60b24ab11","fromNode":"8d76129e273644e3","fromSide":"bottom","toNode":"5045c9277f1b5e65","toSide":"top"},
+		{"id":"5a23447a7e0149d0","fromNode":"cc43bfa809968912","fromSide":"bottom","toNode":"8d76129e273644e3","toSide":"top"},
+		{"id":"3ba0fd94ab1385e1","fromNode":"cc43bfa809968912","fromSide":"bottom","toNode":"6dbb170d5abc55b1","toSide":"top"},
+		{"id":"b7c919ad4a0c676f","fromNode":"6c76432ef0be331c","fromSide":"bottom","toNode":"23c38d519784dad1","toSide":"top"},
+		{"id":"22259e0df1210653","fromNode":"cc43bfa809968912","fromSide":"left","toNode":"e57cddd7638e112f","toSide":"right"},
+		{"id":"675a7a4ef16dc6f1","fromNode":"cc43bfa809968912","fromSide":"left","toNode":"70620cdbdf83325c","toSide":"right","color":"2"},
+		{"id":"5badbc8ae97dd6d2","fromNode":"cc43bfa809968912","fromSide":"top","toNode":"b4467931cbd89f33","toSide":"bottom"},
+		{"id":"3ffbed4d0a729e4f","fromNode":"b4467931cbd89f33","fromSide":"top","toNode":"9d62f3a66b150417","toSide":"bottom"},
+		{"id":"411513ac7ed58fd7","fromNode":"b4467931cbd89f33","fromSide":"top","toNode":"d161b5ae25e09546","toSide":"bottom"},
+		{"id":"685a41588077b2b2","fromNode":"b4467931cbd89f33","fromSide":"top","toNode":"16172bfcc4de1809","toSide":"bottom"}
+	]
+}

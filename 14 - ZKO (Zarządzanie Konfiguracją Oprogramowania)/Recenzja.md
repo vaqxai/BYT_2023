@@ -1,0 +1,4 @@
+- Dokumenty opisujące elementy projektu powinny podlegać recenzjom (przeglądom)
+- Recenzent może pochodzić z zewnątrz lub wewnątrz zespołu zależnie od charakteru dokumentu
+- Recenzent zapisuje wyniki recenzji w dokumencie
+- Celem recenzji jest znalezienie defektów

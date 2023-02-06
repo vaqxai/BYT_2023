@@ -1,0 +1,7 @@
+- Poprawiony dokument opisujący wymagania
+- Poprawiony model analityczny
+- Poprawiony projekt, który od tej pory stanowi dokumentacje techniczną
+- Kod składający się z przetestowanych modułów
+- Raport opisujący testy modułu
+- Zaprojektowana i dostrojona baza danych
+- Harmonogram fazy testowania

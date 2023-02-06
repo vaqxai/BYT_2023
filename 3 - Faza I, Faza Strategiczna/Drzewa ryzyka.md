@@ -1,0 +1,2 @@
+Wierzchołki takiego drzewa to sytuacje, w których mogą zajść zdarzenia. Krawędzie to przejścia do nowych sytuacji, każda z nich ma prawodpodobieństwo. Liście (scenariusze) mają koszt.
+![[Załączniki/Drzewa ryzyka.png]]

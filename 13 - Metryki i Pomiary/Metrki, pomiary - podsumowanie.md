@@ -1,0 +1,7 @@
+- Metryki tworzy się i wykorzystuje na bazie zdrowego rozsądku i doświadczenia
+- Mają charakter wspomagający
+- Najlepiej stosować ich zestawy, co zmniejsza błędy
+- Przede wszystkim zdrowy rozsądek i doświadczenie
+- Pomimo podejścia empirycznego, są pomocne w bardziej obiektywnym podejściu do oceny
+- Wyspecjalizowane metryki są lepsze od metryk ogólnych o szerokim zastosowaniu
+- Wskazane jest wspomaganie metod opartych na metrykach narzędziami programistycznymi

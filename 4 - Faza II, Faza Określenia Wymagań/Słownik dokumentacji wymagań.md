@@ -1,0 +1,1 @@
+Wyjaśnia terminy, które mogą być niezrozumiałe dla jednej zestron (informatyczne – niezrozumiałe dla klienta, dot. dziedziny zastosowań – niezrozumiałe dla producenta)

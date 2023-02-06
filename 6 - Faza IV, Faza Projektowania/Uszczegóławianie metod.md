@@ -1,0 +1,4 @@
+- Przez podanie parametrów i nagłówków metod
+- Przez określenie, które z metod będą realizowane jako funkcje wirtualne a które jako wiązane (dotyczy c++)
+- Zastąpienie niektórych prostych metod bezpośrednim dostępem do atrybutów
+- Zastąpienie niektórych atrybutów przez metody np wiek = bieżąca data - data urodzenia

@@ -1,0 +1,8 @@
+- Tradycyjne, wciąż popularne środowisko implementacji
+- Procesy i moduły wysokiego poziomu mogą odpowiadać całym aplikacjom
+- Grupy procedur i funkcji, odpowiadają funkcjom systemu
+- Składnki odpowiadają strukturom danych języka lub strukturom przechowywanym w pliku
+- Języki proceduralne nie daja dużych możliwości ograniczenia dostępu do danych
+- Składowe struktur dostępne wtedy, kiedy dostępna jest cała struktura
+- Istnieją języki o bardziej rozbudowanych możliwościach ograniczania dostępu tj. Ada, Modula-2
+- Możliwość programowania w stylu obiektowym, ale bez udogodnień tj. klasy, dziedziczenie metody itd.

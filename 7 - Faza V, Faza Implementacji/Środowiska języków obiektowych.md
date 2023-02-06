@@ -1,0 +1,3 @@
+- Bardzo przydatne, bo łatwo odwzorować model projektowy
+- Niewystarczające dla dużych zbiorów danych, wymagają współpracy z BD
+- Większość języków OOP to języki hybrydowe, polegające na dołączeniu obiektowości do języków proceduralnych

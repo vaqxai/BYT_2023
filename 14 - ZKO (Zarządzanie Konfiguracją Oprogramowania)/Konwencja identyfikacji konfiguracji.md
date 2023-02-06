@@ -1,0 +1,7 @@
+- Konwencja zazwyczaj jest formatem tekstowym złożonym z rozmaitych znaków tj. przecinki, kropki, ukośniki itd. umożliwiająca jednoznaczną identyfikację pozycji konfiguracji
+- Konwencja powinna odzwierciedlać hierarhiczną strukturę pozycji konfiguracji, rodzaj pozycji oraz jej przypisanie do projektu. Konwencja powinna odzwierciedlać przyjęte w danej firmie formularze, dokumenty i kody.
+- Np. SME/ANA/DW 3.2 oznacza projekt oznaczony jako SME, pakiet prac (zadanie) ANA, DW oznacza dokument wymagań a 3.2 trzecią wersję, drugą rewizję
+- Konwencja identyfikacji powinna:
+	- Ustalać nazewnictwo pozycji konfiguracji
+	- Określać os. odpowiedzialną za nazwanie danej poz. konfiguracji
+	- Odwzorowywać w miarę możliwości historię danej pozycji konfiguracji

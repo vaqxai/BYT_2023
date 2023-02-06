@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"436c9f0012d9b643","x":-839,"y":-1529,"width":762,"height":890,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Wymagania na oprogramowanie.md"},
+		{"id":"0e24e5593d635d17","x":-1666,"y":-1209,"width":758,"height":580,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Zapewnienie jakości fazy analizy.md"},
+		{"id":"f948b5d4997de9ec","x":-1358,"y":-267,"width":900,"height":1949,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Faza analizy.md"},
+		{"id":"2839bb883cdf21b7","x":-223,"y":557,"width":699,"height":437,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Metodyki obiektowe.md"},
+		{"id":"12b4158059d262bb","x":-223,"y":-96,"width":699,"height":524,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Załączniki/Metodyki strukturalne.md"},
+		{"id":"f5482b0c697d79dc","x":797,"y":493,"width":586,"height":719,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Notacja VS metodyka.md"},
+		{"id":"c8cdb18db4f928b8","x":-189,"y":1312,"width":621,"height":671,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Tworzenie modelu obiektowego.md"},
+		{"id":"4331a2912b5bad46","x":-2321,"y":34,"width":862,"height":1347,"color":"2","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Model analityczny.md"},
+		{"id":"aca5fdbb656da5d9","x":797,"y":-253,"width":586,"height":574,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Różnice między metodykami analizy strukturalnej i obiektowej.md"},
+		{"id":"81d52272744cc0ea","x":476,"y":1312,"width":536,"height":507,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/UML.md"},
+		{"id":"f01eb4e374434768","x":-29,"y":2046,"width":301,"height":95,"type":"text","text":"Dodatkowo do dokumentu specyfikacji wymagań:"},
+		{"id":"9c8e6d90d570bda1","x":-138,"y":2198,"width":520,"height":449,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Załączniki/Specyfikacja wymagań na oprogramowanie pt 2.png"}
+	],
+	"edges":[
+		{"id":"98dae8ec2c2f5ef4","fromNode":"f01eb4e374434768","fromSide":"bottom","toNode":"9c8e6d90d570bda1","toSide":"top"},
+		{"id":"6a7ec89341a996cd","fromNode":"f948b5d4997de9ec","fromSide":"left","toNode":"4331a2912b5bad46","toSide":"right","color":"2"},
+		{"id":"950e74c699352fc1","fromNode":"f948b5d4997de9ec","fromSide":"top","toNode":"436c9f0012d9b643","toSide":"bottom"},
+		{"id":"e39c16364d02b167","fromNode":"f948b5d4997de9ec","fromSide":"right","toNode":"12b4158059d262bb","toSide":"left","color":"1"},
+		{"id":"459f277569b2bb13","fromNode":"f948b5d4997de9ec","fromSide":"right","toNode":"2839bb883cdf21b7","toSide":"left","color":"1"},
+		{"id":"924213d2dbcd6adf","fromNode":"f948b5d4997de9ec","fromSide":"top","toNode":"0e24e5593d635d17","toSide":"bottom"},
+		{"id":"d3faa7722972e7d9","fromNode":"c8cdb18db4f928b8","fromSide":"bottom","toNode":"f01eb4e374434768","toSide":"top"},
+		{"id":"c0ea815b40c0eb9a","fromNode":"2839bb883cdf21b7","fromSide":"bottom","toNode":"81d52272744cc0ea","toSide":"top"},
+		{"id":"87733bc7b4d877da","fromNode":"12b4158059d262bb","fromSide":"right","toNode":"f5482b0c697d79dc","toSide":"left","color":"1"},
+		{"id":"a06d1488a98c3a09","fromNode":"2839bb883cdf21b7","fromSide":"right","toNode":"f5482b0c697d79dc","toSide":"left","color":"1"},
+		{"id":"38ab93390d699d8e","fromNode":"2839bb883cdf21b7","fromSide":"bottom","toNode":"c8cdb18db4f928b8","toSide":"top"},
+		{"id":"edbac91094536608","fromNode":"2839bb883cdf21b7","fromSide":"right","toNode":"aca5fdbb656da5d9","toSide":"left"},
+		{"id":"77239951d4c9f195","fromNode":"12b4158059d262bb","fromSide":"right","toNode":"aca5fdbb656da5d9","toSide":"left"}
+	]
+}

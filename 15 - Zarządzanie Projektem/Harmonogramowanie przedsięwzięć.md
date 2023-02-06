@@ -1,0 +1,6 @@
+- Ustalanie kalendarza prac (rozpoczęcie, dni robocze, wolne, czas pracy w poszczególnych dniach)
+- Podział przedsięwzięcia na zadania
+- Określenie parametrów zadań (tj. czas wykonania, earliest start, pożądany czas zakończenia, inne ograniczenia)
+- Określenie zasobów niezbędnych do realizacji poszczególnych zadań
+- Ustalanie dostępności zasobów
+- Ustalanie kolejności i czasów wykonywania zadań

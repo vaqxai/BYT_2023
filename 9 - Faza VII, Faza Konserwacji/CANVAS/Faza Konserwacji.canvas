@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"7439a51fc33a0468","x":-456,"y":61,"width":950,"height":1772,"color":"1","type":"file","file":"Inżynieria Oprogramowania/9 - Faza VII, Faza Konserwacji/Faza Konserwacji.md"},
+		{"id":"7453c736c0b6de7a","x":-1444,"y":1175,"width":750,"height":1317,"color":"1","type":"file","file":"Inżynieria Oprogramowania/8 - Faza VI, Faza Instalacji/Faza Instalacji.md"},
+		{"id":"35d67a3dcd56f5d2","x":-1722,"y":182,"width":979,"height":543,"color":"1","type":"file","file":"Inżynieria Oprogramowania/9 - Faza VII, Faza Konserwacji/Faza konserwacji - zgłaszanie problemów.md"},
+		{"id":"3386c4e0e0533d3b","x":-2808,"y":73,"width":979,"height":762,"color":"1","type":"file","file":"Inżynieria Oprogramowania/9 - Faza VII, Faza Konserwacji/Faza konserwacji - zlecanie zmian.md"},
+		{"id":"adaf235c4b43f9ba","x":-3959,"y":98,"width":979,"height":737,"color":"1","type":"file","file":"Inżynieria Oprogramowania/9 - Faza VII, Faza Konserwacji/Faza konserwacji - ocena efektu zmian.md"},
+		{"id":"43d3afbc06fb041e","x":-743,"y":-811,"width":979,"height":542,"type":"file","file":"Inżynieria Oprogramowania/9 - Faza VII, Faza Konserwacji/Narzędzia i metody konserwacji oprogramowania.md"},
+		{"id":"5947f38d90d08ac0","x":754,"y":-545,"width":902,"height":2760,"color":"2","type":"file","file":"Inżynieria Oprogramowania/9 - Faza VII, Faza Konserwacji/Koszty w fazie konserwacji.md"}
+	],
+	"edges":[
+		{"id":"80bed54fa14b9854","fromNode":"35d67a3dcd56f5d2","fromSide":"left","toNode":"3386c4e0e0533d3b","toSide":"right","color":"1"},
+		{"id":"b513352bbefe1042","fromNode":"7439a51fc33a0468","fromSide":"right","toNode":"5947f38d90d08ac0","toSide":"left","color":"2"},
+		{"id":"b8fb67b173af6717","fromNode":"7439a51fc33a0468","fromSide":"top","toNode":"43d3afbc06fb041e","toSide":"bottom"},
+		{"id":"ac7180d7e03bdca8","fromNode":"3386c4e0e0533d3b","fromSide":"left","toNode":"adaf235c4b43f9ba","toSide":"right","color":"1"},
+		{"id":"0bb1bc89e8c0e6bb","fromNode":"7439a51fc33a0468","fromSide":"left","toNode":"35d67a3dcd56f5d2","toSide":"right","color":"1"}
+	]
+}

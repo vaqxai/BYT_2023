@@ -1,0 +1,9 @@
+- *Sposoby prowadzenia przedsięwzięć* informatycznych
+- *Techniki planowania*, szacowania kosztów, harmonogramowania i monitorowania p. i.
+- *Metody analizy i projektowania* systemów
+- *Techniki zwiększenia niezawodności* oprogramowania
+- *Sposoby testowania systemów* i szacowania niezawodności
+- *Sposoby przygotowania dokumentacji* technicznej i użytkowej
+- *Procedury kontroli jakości*
+- *Metody redukcji kosztów konserwacji* (tj usuwanie błędów, modyfikacje i rozszerzenia)
+- *Techniki pracy zespołowej* i czynniki psychologiczne wpływające na efektywność pracy

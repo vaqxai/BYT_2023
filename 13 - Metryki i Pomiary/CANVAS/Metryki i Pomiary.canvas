@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"40d3e7254687dcbb","x":-504,"y":-1693,"width":416,"height":131,"color":"1","type":"text","text":"# Metody szacowania kosztów"},
+		{"id":"79821698cfe24b1a","x":-797,"y":-2239,"width":1003,"height":306,"type":"file","file":"Inżynieria Oprogramowania/13 - Metryki i Pomiary/Metrki, pomiary - podsumowanie.md"},
+		{"id":"b2c1aff506b0c43c","x":-582,"y":-1297,"width":1159,"height":420,"color":"1","type":"file","file":"Inżynieria Oprogramowania/13 - Metryki i Pomiary/Metoda szacowania kosztów COCOMO.md"},
+		{"id":"061301d5141f3fcd","x":-1292,"y":-1306,"width":641,"height":576,"color":"1","type":"file","file":"Inżynieria Oprogramowania/13 - Metryki i Pomiary/Pomiary oprogramowania.md"},
+		{"id":"3de72f4883302f19","x":-1292,"y":-679,"width":641,"height":872,"type":"file","file":"Inżynieria Oprogramowania/13 - Metryki i Pomiary/Przykładowe metryki.md"},
+		{"id":"fcb4f6599e0aa416","x":-504,"y":-801,"width":1003,"height":994,"type":"file","file":"Inżynieria Oprogramowania/13 - Metryki i Pomiary/Szacowanie metodą COCOMO.md"},
+		{"id":"48afab2f12dcc3fb","x":410,"y":-2217,"width":724,"height":718,"color":"1","type":"file","file":"Inżynieria Oprogramowania/13 - Metryki i Pomiary/Metoda punktów funkcyjnych.md"},
+		{"id":"3092d2b514b82269","x":1325,"y":-2784,"width":805,"height":1852,"type":"file","file":"Inżynieria Oprogramowania/13 - Metryki i Pomiary/Korekcja punktów funkcyjnych.md"},
+		{"id":"5a2d078cf4b941c6","x":2217,"y":-2022,"width":804,"height":329,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/Załączniki/Przykłady obliczania punktów funkcyjnych.png"}
+	],
+	"edges":[
+		{"id":"dc952d6572da429f","fromNode":"48afab2f12dcc3fb","fromSide":"right","toNode":"3092d2b514b82269","toSide":"left"},
+		{"id":"7879d1e78e677ef5","fromNode":"40d3e7254687dcbb","fromSide":"right","toNode":"48afab2f12dcc3fb","toSide":"left","color":"1"},
+		{"id":"9c46499c732d8273","fromNode":"061301d5141f3fcd","fromSide":"bottom","toNode":"3de72f4883302f19","toSide":"top"},
+		{"id":"7c45d6e5e771ebcb","fromNode":"40d3e7254687dcbb","fromSide":"bottom","toNode":"061301d5141f3fcd","toSide":"top","color":"1"},
+		{"id":"fac76519b2e241bf","fromNode":"3092d2b514b82269","fromSide":"right","toNode":"5a2d078cf4b941c6","toSide":"left"},
+		{"id":"7b6823beccda13aa","fromNode":"40d3e7254687dcbb","fromSide":"bottom","toNode":"b2c1aff506b0c43c","toSide":"top","color":"1"},
+		{"id":"484be88ac41be961","fromNode":"40d3e7254687dcbb","fromSide":"top","toNode":"79821698cfe24b1a","toSide":"bottom"},
+		{"id":"530909506ad19440","fromNode":"b2c1aff506b0c43c","fromSide":"bottom","toNode":"fcb4f6599e0aa416","toSide":"top"}
+	]
+}

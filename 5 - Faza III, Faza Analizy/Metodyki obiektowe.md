@@ -1,0 +1,5 @@
+- Metodyki wykorzystujące pojęcia obiektowości dla celów modelowania pojęciowego oraz analizy i projektowania systemów informatycznych
+- Podstawowym składnikiem jest **diagram klas** będący wariantem notacyjnym i rozszerzeniem diagramów encja-związek
+- Diagram klas zawier klasy, specyfikacje atrybutów i metod, związki generalizacji, asocjacji i agregacji, liczności tych związków, ograniczenia i inne oznaczenia
+- Uzupełnieniem są inne diagramy dynamiczne uwzględniające stany, przejścia między stanami, diagramy interakcji, diagramy funkcjonalne itd.
+- Koncpecja **przypadków użycia** (use case) zakłada odwzorowanie struktury systemu z punktu widzenia użytkownika

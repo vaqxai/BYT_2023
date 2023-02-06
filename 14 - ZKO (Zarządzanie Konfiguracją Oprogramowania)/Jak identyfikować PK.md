@@ -1,0 +1,5 @@
+- Identyfikator powinien mieć nazwę, typ i wersję PK. Nowy identyfikator nie może implikować zmiany poprzednich
+- Dobre idenfyikatory pozwalają na szybką orientację w tym czego dotyczą
+- Identyfikator powinien uwzględniać typ PK
+- Wszystkie poprawki powinny być dokonywane na wersji źródłowej, poprawki na wersji wygenerowanej są niedopuszczalne
+- Niektóre schematy zarządzania konfiguracją rozróżniają “wersje” i “rewizje”, rewizje to małe zmiany na przykład poprawki błędów. 

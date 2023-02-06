@@ -1,0 +1,5 @@
+- Kierownictwo jest odpowiedzialne za organizowanie aktywności związanych z ZKO i definiowanie ról personelu
+- Kierownictwo musi wymagać dokładnej identyfikacji wszystkich komponentów składających się na projekt oprogramowania i określenia ich statusu (np. wstępny, roboczy, zatwierdzony i końcowy)
+- Personel rozwijający oprogramowanie powinien dzielić między siebie komponenty w sposób bezpieczny i efektywny
+- Personel ZJO musi mieć możliwość śledzenia pochodzenia i rozwijania każdego komponentu oraz ustalania kompletności i poprawności każdej konfiguracji
+- Wdrożone przez kierownictwo procedury ZKO powinny zapewniać czytelność i jasność projektu i produktu dla wszystkich zainteresowanych stron

@@ -1,0 +1,16 @@
+- Wydajność
+- Interfejs
+- Własności operacyjne (wymagania logistyczne, organizacyjne, użyteczność/stopień skomplikowania instrukcji, czytelność ekranów, operacje wymagajace zbyt wielu kroków, jasność komunikatów, jakość informacji o błędach, jakość pomocy)
+- Testy zużycia zasobów
+- Zabezpieczenia
+- Przenaszalność
+- Niezawodność
+- Odtwarzalność (maintainability)
+- Bezpieczeństwo (stopień minimalizacji katastrofalnych skutków)
+- Kompletność i jakość założonych funkcji
+- Nie przekraczanie ograniczeń (zużycia zasobów)
+- Modyfikowalność
+- Obciążalność
+- Skalowalność
+- Akceptowalność (stopień usatysfakcjonowania użytkowników)
+- Jakość dokumentacji

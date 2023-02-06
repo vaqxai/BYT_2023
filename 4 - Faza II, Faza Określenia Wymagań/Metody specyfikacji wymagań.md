@@ -1,0 +1,7 @@
+- Język naturalny
+- Formalizm matematyczny
+- Naturalny język strukturalny
+- Tablice i formularze
+- Diagramy blokowe
+- Diagramy kontekstowe
+- Diagramy use-case

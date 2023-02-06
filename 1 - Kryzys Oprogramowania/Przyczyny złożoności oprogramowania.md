@@ -1,0 +1,4 @@
+- Ogromna liczba wzajemnie uzależnionych aspektów i problemów w dziedzinie problemowej
+- Zespół projektantów podlegający ograniczeniom pamięci, percepcji, wyrażania informacji i komunikacji
+- Potencjalni użytkownicy podlegający czynnikom psychologicznym, wymagający ergonomii, podlegający ograniczeniom pamięci, percepcji, mający skłonność do błedów i nadużyć, a także ich tajność i prywatność
+- Środki i technologie informatyczne, czyli sprzęt, oprogramowanie, sieć, jęzkyi, narzędzia i udogodnienia

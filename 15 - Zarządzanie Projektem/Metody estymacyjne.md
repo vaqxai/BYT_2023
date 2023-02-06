@@ -1,0 +1,7 @@
+- Porównanie historyczne (na bazie innych podobnych projektów)
+- COCOMO (na bazie linii kodu, wykładowca mocno sugeruje że metoda jest chujowa)
+- FPA (na bazie ilości wejść, wyjść, zbiorów danych, stopnia skomplikowania projektu, użytego środowiska itd.)
+- Analzia podziału aktywności (to samo co historyczna tylko obliczamy elementy a nie cały projekt)
+- Delphi (wykorzystanie opinii ekspertów (NAJLEPSZA METODA))
+- Estymacje pracochłonności integracji systemu i testowania
+- Estymacje pracochłonności dokumentacji

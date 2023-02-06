@@ -1,0 +1,6 @@
+- W latach 50-tych japońskie produkty uważano za buble (tak jak dzisiaj chińskie)
+- Koncepcja TQM została zaproponowana przez japończyka Eiji Toyodę dla potrzeb naprawy prestiżu japońskiego przemysłu motoryzacyjnego
+- Główna myśl TQM mówi o tym, że skoro klient stanowi o rentowności przedsiębiorstwa to należy sterować procesami tak, aby klient był zadowolony z jakości wyrobu
+- TQM została rozwinięta przez amerykanów i brytyjczyka
+- Każdy z powyższych autorów definiował własne zasady TQM, jednak wszystkie obracały się wokół zasady Toyody “Jakośc jest najważniejszym kryterium oceny przydatności produktów dla klienta, a to właśnie klient umożliwia funkcjonowanie wytwórcy tych produktów”.
+- Producent wytwarzający kiepskie produkty powinien wypaść z rynku

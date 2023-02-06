@@ -1,0 +1,10 @@
+- Modele i miary do oceny kosztu i nakładu pracy
+- Modele i miary wydajności ludzi
+- Gromadzenie danych
+- Modele i miary jakości
+- Modlee niezawodności
+- Ocena i modelowanie wydajności oprogramowania
+- Miary strukury i złożoności
+- Ocena dojrzałości technologicznej
+- Zarządzanie z wykorzystaniem metryk
+- Ocena metod i narzędzi

@@ -1,0 +1,6 @@
+- Najlepiej rozwinięte środowiska BD, pozwalające na zaimplementowanie systemów bazujących na dużych zbiorach danych
+- Skomplikowane odwzorowanie modelu pojęciowego
+- Mała efektywność niektórych zadań
+- Ograniczenia w zakresie typów
+- Brak hermetyzacji i innych cech obiektowości
+- Zwiększenie długości kodu

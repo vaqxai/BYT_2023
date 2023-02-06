@@ -1,0 +1,3 @@
+- Zawierają klasy, dziedziczenie, abstrakcyjne typy danych
+- Jest podejściem hybrydowym
+- Systemy powstają jako ostrożna ewolucja systemó relacyjnych w kierunku obiektowości

@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"2966c42ddb6cc4fa","x":-1788,"y":-665,"width":1013,"height":1035,"color":"1","type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Zarządzanie konfiguracją i wersjami.md"},
+		{"id":"887f971617ba605e","x":-2448,"y":-1363,"width":400,"height":280,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Entropia.md"},
+		{"id":"d0459dc4af3c9a0e","x":-1961,"y":-1483,"width":400,"height":400,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Recenzja.md"},
+		{"id":"997cf2d28bc6adae","x":-1496,"y":-1483,"width":600,"height":400,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Wydanie (publikacja).md"},
+		{"id":"b9db8412cb23bbbe","x":-831,"y":-1483,"width":850,"height":400,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Plan ZKO (PZKO).md"},
+		{"id":"f4b76de182a34c8b","x":963,"y":-2153,"width":400,"height":259,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/PZKO zaw 1.png"},
+		{"id":"c1c1b0e5c77fcc49","x":963,"y":-1894,"width":400,"height":270,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/PZKO zaw 2.png"},
+		{"id":"9b1494d9c13bf66f","x":963,"y":-1624,"width":400,"height":255,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/PZKO zaw 3.png"},
+		{"id":"75e52a227d6cc76c","x":963,"y":-1369,"width":400,"height":265,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/PZKO zaw 4.png"},
+		{"id":"d680bf20248ef1da","x":963,"y":-1104,"width":400,"height":261,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/PZKO zaw 5.png"},
+		{"id":"764443782c94a760","x":163,"y":-1385,"width":599,"height":272,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/PZKO 2.png"},
+		{"id":"4f34553895ed1ef2","x":171,"y":-1796,"width":591,"height":411,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/PZKO 1.png"},
+		{"id":"ab65f2bfdf99f685","x":396,"y":-2104,"width":250,"height":210,"type":"text","text":"Jesli on oczekuje ze my bedziemy kuc na blache szablon dokumentacji technicznej to go chyba ostro pojebalo"},
+		{"id":"4c76c0686ee94b51","x":-2931,"y":-843,"width":683,"height":701,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Produkt bazowy.md"},
+		{"id":"3ad39334b430f5b6","x":-2840,"y":3,"width":737,"height":333,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Jak identyfikować PK.md"},
+		{"id":"67900028e5e94b77","x":-3614,"y":-91,"width":683,"height":522,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Co identyfikować jako PK.md"},
+		{"id":"6ad066c611cb4128","x":-1032,"y":692,"width":775,"height":556,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/Hierarchia pozycji konfiguracji.png"},
+		{"id":"fcb7e55e861959ba","x":-1883,"y":673,"width":775,"height":575,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Załączniki/Tablica statusu konfiguracji.png"},
+		{"id":"4ebe99665c700665","x":-2662,"y":610,"width":737,"height":701,"color":"2","type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Wersje (warianty).md"},
+		{"id":"ba1de3db1ce4d48b","x":-579,"y":-97,"width":750,"height":533,"color":"2","type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Konwencja identyfikacji konfiguracji.md"},
+		{"id":"217c974a0d7597de","x":-581,"y":-843,"width":600,"height":535,"color":"2","type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Co zapewnia ZKO.md"},
+		{"id":"d82adf8988bdb0c2","x":147,"y":-740,"width":749,"height":496,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/Zadania kierownictwa odnośnie ZKO.md"}
+	],
+	"edges":[
+		{"id":"671dac91911c5982","fromNode":"2966c42ddb6cc4fa","fromSide":"top","toNode":"887f971617ba605e","toSide":"bottom"},
+		{"id":"73abb52419d01564","fromNode":"2966c42ddb6cc4fa","fromSide":"right","toNode":"217c974a0d7597de","toSide":"left"},
+		{"id":"09e3457e41bfa67a","fromNode":"217c974a0d7597de","fromSide":"right","toNode":"d82adf8988bdb0c2","toSide":"left"},
+		{"id":"5f6cdcf7307c3393","fromNode":"2966c42ddb6cc4fa","fromSide":"bottom","toNode":"6ad066c611cb4128","toSide":"top"},
+		{"id":"9a3faf02748b4e71","fromNode":"2966c42ddb6cc4fa","fromSide":"left","toNode":"4c76c0686ee94b51","toSide":"right"},
+		{"id":"f3f4fffdecdb8536","fromNode":"2966c42ddb6cc4fa","fromSide":"bottom","toNode":"4ebe99665c700665","toSide":"top"},
+		{"id":"995a8e1fe9229759","fromNode":"2966c42ddb6cc4fa","fromSide":"right","toNode":"ba1de3db1ce4d48b","toSide":"left"},
+		{"id":"31d02422c86ed7a3","fromNode":"3ad39334b430f5b6","fromSide":"left","toNode":"67900028e5e94b77","toSide":"right"},
+		{"id":"3f3ffee3e3bb5f8c","fromNode":"2966c42ddb6cc4fa","fromSide":"left","toNode":"3ad39334b430f5b6","toSide":"right"},
+		{"id":"6a98aaa1258d93b6","fromNode":"2966c42ddb6cc4fa","fromSide":"bottom","toNode":"fcb7e55e861959ba","toSide":"top"},
+		{"id":"87db5d91fb5acb33","fromNode":"2966c42ddb6cc4fa","fromSide":"top","toNode":"d0459dc4af3c9a0e","toSide":"bottom"},
+		{"id":"6ddf0a74d317bcc9","fromNode":"2966c42ddb6cc4fa","fromSide":"top","toNode":"997cf2d28bc6adae","toSide":"bottom"},
+		{"id":"57d06b24db1f9bad","fromNode":"2966c42ddb6cc4fa","fromSide":"top","toNode":"b9db8412cb23bbbe","toSide":"bottom"},
+		{"id":"f2c66dcd69880f52","fromNode":"b9db8412cb23bbbe","fromSide":"right","toNode":"4f34553895ed1ef2","toSide":"left"},
+		{"id":"6199354419b9ca6b","fromNode":"764443782c94a760","fromSide":"right","toNode":"f4b76de182a34c8b","toSide":"left"}
+	]
+}

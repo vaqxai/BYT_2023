@@ -1,0 +1,1 @@
+Kierownik projektu **powinien znać aspekty techniczne projektu** gdyż jest odpowiedzialny za wiele decyzji związanych z nimi. Jednak w większych zespołach część tych kompetencji można oddelegować **do osób prowadzących zespoły**.

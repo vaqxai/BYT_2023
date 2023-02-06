@@ -1,0 +1,5 @@
+- Jakość - ogół cech i właściwości wyrobu lub usług idecydujący o zdolności wyrobu do zaspokojenia stwierdzonych lub przewidywanych potrzeb użytkownika produktu
+- System jakości - odpowiednio zbudowana struktura organizacyjna z jednoznacznym podziałem odpowiedzialności, określeniem procedur, procesów i zasobów, umożliwiających wdrożenie “zarządzania jakością”
+- Zarządzanie jakością - jest związane z aspektem całości funkcji zarządzania organizacji, który jest decydujący w określaniu i wdrażaniu polityki jakości
+- Polityka jakości - ogół zamierzeń i kierunków działań organizacji dotyczących jakości, w sposób formalny wyrażony przez najwysze kierownictwo organizacji, będącej systemem jakości
+- Audyt jakości - systematyczne i niezależne badanie, mające określić zgodność działań dot. jakości z ich ustaleniami i czy pozwalają na osiągnięcie odpoweiedniego poziomu jakości

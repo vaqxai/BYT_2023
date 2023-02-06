@@ -1,0 +1,6 @@
+- Na najwyższym poziomie cały projekt jest PK, powinien otrzymać unikalny identyfikator. PK o niższym poziomie powinny mieć identyfikatory poprzedzane identyfikatorem PK wyższego
+- PK obecnego projektu może zawierać PK innych projektów, w takim wypadku  identyfikacja “obcych” PK nie ulega zmianie
+- Na dolnym poziomie znajdują się atomowe PK, tj. poszczególne dokumenty analityczne i projektowe, jednostki kodu źródłowego (pliki) traktowane jako niepodzielne przez oprogramowanie narzędziowe (kompilator)
+- PK mogą odzwierciedlać podział projektu na zadania
+- Konfiguracje muszą być praktyczne z fizycznego punktu widzenia (przenoszenie, modyfikacja kopiowanie usuwanie) oraz logicznego (cel łatwy do zrozumienia)
+- Atomowe PK muszą mieć odpowiednią ziarnistość, zbyt duże są trudne w manipulacji, zbyt małe są trudne do utrzymania i zarządzania

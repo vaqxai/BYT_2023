@@ -1,0 +1,11 @@
+# Skład zespołu oceniającego
+- Kierownik
+- Sekretarz
+- Członkowie
+	- Użytkownicy
+	- Kier. projektu
+	- Inżynierowie oprogramowania
+	- Bibliotekarz oprogramowania
+	- Personel zespołu zapewnienia jakości
+	- Niezależny personel weryfikacji i atestowanie
+	- Niezależni 

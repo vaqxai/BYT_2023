@@ -1,0 +1,9 @@
+- Poprawiony dokument opisujący wymagania
+- Poprawiony model
+- Uszczegółowiona specyfikacja projektu w słowniku danych
+- Dokument opisujący stworzony projekt, a w nim obiektowy model (np UML)
+- Zasoby interfejsu użytkownika
+- Projekt bazy danych
+- Projekt fiz. struktury systemu
+- Poprawiony plan testów
+- Harmonogram fazy implementacji

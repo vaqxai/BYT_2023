@@ -1,0 +1,6 @@
+- Wysoka jakość modelu
+- Dobra znajomość środowiska implementacji
+- Zachowanie przyjętych standardów
+- Sprawdzenie poprawności projektu
+- Optymalizacja projektu
+- Poddanie projektu ocenie przez niezależne ciało

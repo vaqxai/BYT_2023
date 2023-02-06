@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ec67a19c2a65328a","x":-822,"y":897,"width":808,"height":488,"color":"1","type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Metody prototypowania.md"},
+		{"id":"2b594b8ca5d2092b","x":899,"y":-412,"width":756,"height":512,"color":"1","type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Metodyka i metodologia.md"},
+		{"id":"18e7a6e9f4ce90c8","x":899,"y":-626,"width":687,"height":111,"type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Załączniki/Etapy cyklu życia oprogramowania.png"},
+		{"id":"1728071944908591","x":-830,"y":-1401,"width":816,"height":1288,"color":"1","type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Model kaskadowy (Waterfall).md"},
+		{"id":"77941ac8df676b4f","x":-1684,"y":-1243,"width":816,"height":1130,"color":"1","type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Model spiralny.md"},
+		{"id":"b73302abced2e891","x":125,"y":-541,"width":688,"height":385,"type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Cykl życiowy oprogramowania.md"},
+		{"id":"6c656d676d77b33a","x":125,"y":-113,"width":688,"height":325,"type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Modele cyklu życia oprogramowania.md"},
+		{"id":"0786c76ce1210a6d","x":-822,"y":212,"width":808,"height":612,"color":"1","type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Prototypowanie.md"},
+		{"id":"707886fe9e78307a","x":-1684,"y":212,"width":816,"height":641,"color":"1","type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Montaż z gotowych komponentów.md"},
+		{"id":"dbee4865cd376da9","x":913,"y":494,"width":728,"height":891,"color":"1","type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/Modele pojęciowe.md"}
+	],
+	"edges":[
+		{"id":"f4b3d4fefd0f2f6e","fromNode":"0786c76ce1210a6d","fromSide":"bottom","toNode":"ec67a19c2a65328a","toSide":"top"},
+		{"id":"9fa0d95753fad6ef","fromNode":"2b594b8ca5d2092b","fromSide":"left","toNode":"b73302abced2e891","toSide":"right","color":"1"},
+		{"id":"ec30a30fee74fe37","fromNode":"dbee4865cd376da9","fromSide":"top","toNode":"2b594b8ca5d2092b","toSide":"bottom"},
+		{"id":"1f1f827b601fa476","fromNode":"b73302abced2e891","fromSide":"right","toNode":"18e7a6e9f4ce90c8","toSide":"left"},
+		{"id":"f51429cfc39a5983","fromNode":"6c656d676d77b33a","fromSide":"left","toNode":"1728071944908591","toSide":"bottom","color":"1"},
+		{"id":"898af8a193cb8ade","fromNode":"6c656d676d77b33a","fromSide":"left","toNode":"77941ac8df676b4f","toSide":"bottom","color":"1"},
+		{"id":"74682c1b0770d1ba","fromNode":"b73302abced2e891","fromSide":"bottom","toNode":"6c656d676d77b33a","toSide":"top"},
+		{"id":"c48194047411827c","fromNode":"6c656d676d77b33a","fromSide":"left","toNode":"0786c76ce1210a6d","toSide":"top","color":"1"},
+		{"id":"0418a285dc5d28a2","fromNode":"6c656d676d77b33a","fromSide":"left","toNode":"707886fe9e78307a","toSide":"top","color":"1"}
+	]
+}

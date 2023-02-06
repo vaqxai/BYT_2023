@@ -1,0 +1,14 @@
+Brane pod uwagę przy konstrukcji wymagań:
+- Możliwości systemu
+- Objętość
+- Szybkość
+- Dokładność
+- Ograniczenia
+- Interfejsy komunikacyjne, sprzętowe, oprogramowania
+- Interakcja człowiek-maszyna
+- Adaptowalność
+- Bezpieczeństwo
+- Odporność na awarie
+- Standardy
+- Zasoby
+- Skala czasowa

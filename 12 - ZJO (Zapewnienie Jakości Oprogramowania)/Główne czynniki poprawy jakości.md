@@ -1,0 +1,7 @@
+- Poprawa *zarządzania projektem*
+- Wzmocnienie *inżynierii wymagań*
+- Zwiększenie nacisku na *jakość*
+- Zwiększenie nacisku na *kwalifikacje i wyszkolenie ludzi*
+- Szybsze *wykonywanie pracy (dzięki lepszym narzędziom) – 10%*
+- Bardziej *inteligentne wykonywanie pracy (dzięki lepszej organizacji i metodom) – 20%*
+- Powtórne *wykorzystanie pracy już wykonanej (ponowne użycie) – 65%*

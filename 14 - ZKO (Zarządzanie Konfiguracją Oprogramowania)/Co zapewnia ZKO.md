@@ -1,0 +1,10 @@
+- Każdy komponent będzie jednoznacznie identyfikowany
+- Oprogramowanie będzie zbudowane ze spójnego zestawu komponentów
+- Zawsze będzie wiadomo, która wersja jest najnowsza
+- Zawsze wiadomo, która wersja dokumentacji pasuje do której wersji komponentu
+- Komponenty zawsze są łatwo dostępne
+- Komponenty nigdy nie zostaną stracone
+- Każda zmiana będzie zatwierdzona i udokumentowana
+- Zmiany nie zaginą
+- Zawsze będzie istniała możliwość powrotu do poprzedniej wersji
+- Historia zmian będzie przechowywana, co umożliwi odtworzenie kto i kiedy zrobił zmiane, i jaką zmiane zrobił

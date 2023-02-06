@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2604036136a78ec6","x":521,"y":904,"width":611,"height":653,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Edytory notacji graficznych.md"},
+		{"id":"b4c74016b1bd6685","x":-1198,"y":-633,"width":954,"height":2382,"color":"1","type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Narzędzia CASE.md"},
+		{"id":"1cf8e570ae4fc5a0","x":392,"y":-1109,"width":841,"height":1289,"color":"1","type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Inne moduły narzędzi CASE.md"},
+		{"id":"c1d13a8587887633","x":492,"y":310,"width":640,"height":496,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Repozytoria CASE.md"},
+		{"id":"2f6327bf6d9d16a4","x":-862,"y":-1587,"width":1001,"height":614,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Załączniki/Rozkład kosztów i realizacji w CASE vs bez CASE.png"},
+		{"id":"ba4abe915dcac68b","x":-1769,"y":-1584,"width":860,"height":610,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Załączniki/Korzysci z CASE.png"}
+	],
+	"edges":[
+		{"id":"adeb25def63523ca","fromNode":"b4c74016b1bd6685","fromSide":"top","toNode":"ba4abe915dcac68b","toSide":"bottom"},
+		{"id":"b21109fa628c1394","fromNode":"b4c74016b1bd6685","fromSide":"right","toNode":"2604036136a78ec6","toSide":"left"},
+		{"id":"8edc6bb9eb6dad73","fromNode":"b4c74016b1bd6685","fromSide":"right","toNode":"c1d13a8587887633","toSide":"left"},
+		{"id":"17af099a0e7c0008","fromNode":"b4c74016b1bd6685","fromSide":"right","toNode":"1cf8e570ae4fc5a0","toSide":"left","color":"1"},
+		{"id":"497a5a0841d0ffde","fromNode":"b4c74016b1bd6685","fromSide":"top","toNode":"2f6327bf6d9d16a4","toSide":"bottom"}
+	]
+}

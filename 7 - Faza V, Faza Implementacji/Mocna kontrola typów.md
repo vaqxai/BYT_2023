@@ -1,0 +1,3 @@
+- Typ jest wyrażeniem przypisanym do zmiennych, danych, obiektów…
+- Typ specyfikuje rodzaj wartości
+- 

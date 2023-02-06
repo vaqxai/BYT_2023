@@ -1,0 +1,1 @@
+![[Załączniki/Metryki procesów i produktów.png]]

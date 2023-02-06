@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d19b7a241ff08fe2","x":-876,"y":-925,"width":924,"height":751,"color":"1","type":"file","file":"Inżynieria Oprogramowania/1 - Kryzys Oprogramowania/Kryzys oprogramowania.md"},
+		{"id":"fa4af40740bbd714","x":106,"y":-755,"width":593,"height":411,"color":"1","type":"file","file":"Inżynieria Oprogramowania/1 - Kryzys Oprogramowania/Walka z kryzysem oprogramowania.md"},
+		{"id":"d62b8f47502a8fe7","x":-732,"y":-103,"width":636,"height":431,"color":"1","type":"file","file":"Inżynieria Oprogramowania/1 - Kryzys Oprogramowania/Przyczyny złożoności oprogramowania.md"},
+		{"id":"cb0c63f2fbc36fcd","x":-732,"y":396,"width":636,"height":617,"color":"1","type":"file","file":"Inżynieria Oprogramowania/1 - Kryzys Oprogramowania/Walka ze złożonością oprogramowania.md"}
+	],
+	"edges":[
+		{"id":"79ea78548981a01e","fromNode":"d62b8f47502a8fe7","fromSide":"bottom","toNode":"cb0c63f2fbc36fcd","toSide":"top"},
+		{"id":"a3bfe0d8f86e00c5","fromNode":"d19b7a241ff08fe2","fromSide":"bottom","toNode":"d62b8f47502a8fe7","toSide":"top"},
+		{"id":"7b3c848ae315075b","fromNode":"d19b7a241ff08fe2","fromSide":"right","toNode":"fa4af40740bbd714","toSide":"left"}
+	]
+}

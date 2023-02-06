@@ -1,0 +1,13 @@
+- Raport dla klienta, w nim:
+	- Cele przedsięwzięcia
+	- Zakres
+	- Systemy zewnętrzne (kontekst)
+	- Opis wymagań (ogólny)
+	- Model systemu (ogólny)
+	- Opis proponowanego rozwiązania
+	- Szacowane koszty
+	- Wstępny harmonogram
+- Raport oceny rozwiązań, z informacją o rozważanych rozwiązaniach i przyczynach wyboru jednego z nich
+- Opis wymaganych zasobów
+- Definicje standardów
+- Harmonogram następnej fazy (analizy)
