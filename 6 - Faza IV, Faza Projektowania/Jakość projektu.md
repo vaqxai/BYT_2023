@@ -22,11 +22,12 @@ W dobrym projekcie powinien być jak najmniejszy
 ![[Załączniki/Powiązanie składowych.png]]
 
 ## Czym są powiązania składowych?
-- Korzystanie z tych samuch danych
+- Korzystanie z tych samych danych
 - Przepływy danych
 - Związki klas
 - Przepływy komunikatów
 - Dziedziczenie
+
 Stopień powiązania można ocenić danymi liczbowymi (kohezja)
 
 # Przejrzystość
@@ -39,4 +40,4 @@ Stopień powiązania można ocenić danymi liczbowymi (kohezja)
 - Czytelna i pełna specyfikacja
 - Odpowiednia złożoność składowych na danym poziomie abstrakcji
 
->[!Important] Na uwagę zasługuje dziedziczenie oraz przypisanie metod do klas jako czynnik przejrzystości projektu, to pozwala uporścić i zekomponować projekt
+>[!Important] Na uwagę zasługuje dziedziczenie oraz przypisanie metod do klas jako czynnik przejrzystości projektu, to pozwala uprościć i zdekomponować projekt

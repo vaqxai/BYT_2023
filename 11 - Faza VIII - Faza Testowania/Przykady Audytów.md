@@ -1,0 +1,6 @@
+- Analiza stanu projektu
+- Analiza celowości projektu
+- Analiza procesu wytwórczego
+- Analiza dowolnego procesu
+- Analiza systemu jakości
+- Analiza stosowania systemu jakości

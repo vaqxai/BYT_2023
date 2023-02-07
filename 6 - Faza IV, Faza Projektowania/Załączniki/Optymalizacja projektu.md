@@ -1,6 +1,6 @@
 Bezpośrednia implementacja projektu może prowadzić do systemu o niskej efektywności, gdyż np. wykonywanie niektórych funkcji jest zbyt wolne, a struktury mogą wymagać zbyt dużej pamieci operacyjnej lub masowej.
 
-**Sposoby optymalizacji:
+**Sposoby optymalizacji**:
 - Na poziomie projektu
 - Na poziomie implementacji
 	- Stosowanie zmiennych statycznych

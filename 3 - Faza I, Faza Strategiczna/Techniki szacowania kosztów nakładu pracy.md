@@ -1,5 +1,5 @@
-- Modele algorytmiczne – opis przedsięwzięcia wieloma atrybutami liczbowymi, algorytm daje wynik
-- Oceny ekspertów – doświadczone osoby precyzyjnie szacują koszt systemu
-- Oceny analogiczne – wiedza ile podobne systemy kosztowały w przeszłości 
-- Oceny dla wygranej – na podstawie kosztu szacowanego przez klienta i konkurencję
-- Szacowanie wstępujące – podzielenie przedsięwzięcia na mniejsze zadania i liczenie ich kosztu
+- **Modele algorytmiczne** – opis przedsięwzięcia wieloma atrybutami liczbowymi, algorytm daje wynik
+- **Oceny ekspertów** – doświadczone osoby precyzyjnie szacują koszt systemu
+- **Oceny analogiczne** – wiedza ile podobne systemy kosztowały w przeszłości 
+- **Oceny dla wygranej** – na podstawie kosztu szacowanego przez klienta i konkurencję
+- **Szacowanie wstępujące** – podzielenie przedsięwzięcia na mniejsze zadania i liczenie ich kosztu

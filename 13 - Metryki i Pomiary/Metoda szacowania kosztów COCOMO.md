@@ -1,6 +1,6 @@
 # Wady metody COCOMO
 - Liczba linii kodu jest znana dopiero gdy system jest napisany (to po co wtedy liczyć ile zajmie jego napisanie?)
-- **SZACUNKI SĄ OBARCZONE BŁĘDEM CZĘSTO PRZEWYŻSZAJĄCYM S T O JEGO WŁASNYCH BOGA PROCENT**
+- **SZACUNKI SĄ OBARCZONE BŁĘDEM CZĘSTO PRZEWYŻSZAJĄCYM 100 JEGO WŁASNYCH BOGA JEDYNEGO PROCENTÓW**
 - Określenie “linii kodu” jest niespójne między językami, 100 linii w C to nie to samo co 100 linii w Pythonie.
 - Koncepcja oparta na liniach kodu jest nieadekwatna do nowoczesnych środowisk programistycznych
 - Zły dobór czynników modyfikujących może prowadzić do jeszcze większych rozbieżności

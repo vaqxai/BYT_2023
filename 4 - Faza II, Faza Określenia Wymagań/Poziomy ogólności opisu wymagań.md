@@ -1,10 +1,10 @@
-- Definicja wymagań
-	Ogólny opis w j. naturalnym. Rezultat wstępnych rozmów z klientem
+- **Definicja wymagań**
+	Ogólny opis w jęzku naturalnym. Rezultat wstępnych rozmów z klientem
 
-- Specyfikacja wymagań
-	Częściowo ustrukturalizowany zapis w j. naturalnym z prostymi częściowo zformalizowanymi notacjami.
+- **Specyfikacja wymagań**
+	Częściowo ustrukturalizowany zapis w języku naturalnym z prostymi częściowo zformalizowanymi notacjami.
 
-- Specyfikacja oprogramowania
+- **Specyfikacja oprogramowania**
 	Formalny opis wymagań.
 
 >[!Important] Formalna specyfikacja

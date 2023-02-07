@@ -1,6 +1,6 @@
 ![[Załączniki/Faza analizy.png]]
 
-Celem jest ustalenie wszystkich czynników lub warunków w dziedzinie przedmiotowej, w otoczeniu realizatorów projektu, której wynikiem jest logiczny model systemu opisujący sposób realizacji przez system postawionych wymagań, lecz bez szczegółów implementacyjnych. W odróżnieniu, celem fazy projektowania jest ustalenie jak system ma być zaimplementowany, a wynikiem opis sposobu implementacji.
+Jej celem jest ustalenie wszystkich czynników lub warunków w dziedzinie przedmiotowej, w otoczeniu realizatorów projektu, której *wynikiem jest logiczny model systemu opisujący sposób realizacji przez system postawionych wymagań*, lecz bez szczegółów implementacyjnych. W odróżnieniu, celem fazy projektowania jest ustalenie jak system ma być zaimplementowany, a wynikiem opis sposobu implementacji.
 
 # Czynności
 - Rozpoznanie, wyjaśnienie, modelowanie, specyfikowanie i dokumentowanie rzeczywistości lub problemu będącego przedmiotem projektu
@@ -26,8 +26,7 @@ Rodzaje notacji:
 - Notacje graficzne
 - Specyfikacje – ustrukturalizowany zapis tekstowy i numeryczny
 
-Szczególnie ważne są notacje graficzne.
-
+*Szczególnie ważne są notacje graficzne.*
 Funkcje notacji:
 - Narzędzie pracy analityka i projektanta
 - Współpraca z użytkownikiem
@@ -37,10 +36,3 @@ Funkcje notacji:
 
 >[!Important] Notacje powinny być
 > Przejrzyste, proste, precyzyjne, łatwo zrozumiałe, umożliwiające modelowanie złożonych zależności
-
-# Rezultaty
-- Poprawiony dokument opisujący wymagania
-- Słownik danych zawierający specyfikację modelu
-- Dokument opisujący stworzony model
-- Harmonogram fazy projektowania
-- Wstępne przypisanie ludzi i zespołów do zadań

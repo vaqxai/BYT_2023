@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"2604036136a78ec6","x":521,"y":904,"width":611,"height":653,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Edytory notacji graficznych.md"},
-		{"id":"b4c74016b1bd6685","x":-1198,"y":-633,"width":954,"height":2382,"color":"1","type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Narzędzia CASE.md"},
-		{"id":"1cf8e570ae4fc5a0","x":392,"y":-1109,"width":841,"height":1289,"color":"1","type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Inne moduły narzędzi CASE.md"},
-		{"id":"c1d13a8587887633","x":492,"y":310,"width":640,"height":496,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Repozytoria CASE.md"},
-		{"id":"2f6327bf6d9d16a4","x":-862,"y":-1587,"width":1001,"height":614,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Załączniki/Rozkład kosztów i realizacji w CASE vs bez CASE.png"},
-		{"id":"ba4abe915dcac68b","x":-1769,"y":-1584,"width":860,"height":610,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Załączniki/Korzysci z CASE.png"}
+		{"id":"b4c74016b1bd6685","x":-1025,"y":-607,"width":670,"height":1912,"color":"1","type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Narzędzia CASE.md"},
+		{"id":"1cf8e570ae4fc5a0","x":-120,"y":-776,"width":578,"height":888,"color":"1","type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Inne moduły narzędzi CASE.md"},
+		{"id":"c1d13a8587887633","x":-126,"y":188,"width":438,"height":434,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Repozytoria CASE.md"},
+		{"id":"ba4abe915dcac68b","x":-1401,"y":-1282,"width":667,"height":473,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Załączniki/Korzysci z CASE.png"},
+		{"id":"2f6327bf6d9d16a4","x":-690,"y":-1282,"width":771,"height":473,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Załączniki/Rozkład kosztów i realizacji w CASE vs bez CASE.png"},
+		{"id":"2604036136a78ec6","x":-120,"y":694,"width":432,"height":581,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/Edytory notacji graficznych.md"}
 	],
 	"edges":[
 		{"id":"adeb25def63523ca","fromNode":"b4c74016b1bd6685","fromSide":"top","toNode":"ba4abe915dcac68b","toSide":"bottom"},

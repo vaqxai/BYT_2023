@@ -1,4 +1,4 @@
-Jest to:
+**Jest to:**
 - Wybór modelu do realizacji przedsięwzięcia
 - Wybór technik do faz analizy i projektowania
 - Wybór środowiska/isk implementacji

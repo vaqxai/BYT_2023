@@ -1,17 +1,16 @@
 {
 	"nodes":[
 		{"id":"21896086822a8184","x":-1326,"y":-2832,"width":856,"height":784,"type":"file","file":"Inżynieria Oprogramowania/6 - Faza IV, Faza Projektowania/CANVAS/Faza Projektowania.canvas"},
-		{"id":"348518a724bf4599","x":-2904,"y":-2931,"width":784,"height":874,"type":"file","file":"Inżynieria Oprogramowania/3 - Faza I, Faza Strategiczna/CANVAS/Faza Strategiczna.canvas"},
 		{"id":"db09541a3ecafa79","x":-2065,"y":-2832,"width":676,"height":775,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/CANVAS/Faza Analizy.canvas"},
 		{"id":"99589ed9bf23677f","x":-438,"y":-2756,"width":936,"height":699,"type":"file","file":"Inżynieria Oprogramowania/7 - Faza V, Faza Implementacji/CANVAS/Faza Implementacji.canvas"},
 		{"id":"d4ad6cf7bcd47ea2","x":855,"y":-2440,"width":755,"height":372,"type":"file","file":"Inżynieria Oprogramowania/9 - Faza VII, Faza Konserwacji/CANVAS/Faza Konserwacji.canvas"},
 		{"id":"9d07f90e5da686a2","x":1659,"y":-2962,"width":930,"height":914,"type":"file","file":"Inżynieria Oprogramowania/11 - Faza VIII - Faza Testowania/CANVAS/Faza Testowania.canvas"},
-		{"id":"43246a4ed21d7baf","x":-181,"y":-1663,"width":380,"height":117,"type":"text","text":"# Fazy cyklu życia oprogramowania"},
 		{"id":"2b41e42c2b03330d","x":564,"y":-2207,"width":291,"height":150,"type":"text","text":"F. Instalacji należy do kanwasu F. Konserwacji (bo to tylko jedna notatka)"},
-		{"id":"15ac1516ed46ee7b","x":-184,"y":-87,"width":511,"height":414,"type":"file","file":"Inżynieria Oprogramowania/0 - Inżynieria Oprogramowania/Inżynieria Oprogramowania.md"},
 		{"id":"3a5494a0646f7194","x":1723,"y":63,"width":1559,"height":1112,"type":"file","file":"Inżynieria Oprogramowania/15 - Zarządzanie Projektem/CANVAS/Zarządzanie Projektem.canvas"},
 		{"id":"9826ee0d8d8f79ea","x":1723,"y":-981,"width":1267,"height":908,"type":"file","file":"Inżynieria Oprogramowania/14 - ZKO (Zarządzanie Konfiguracją Oprogramowania)/CANVAS/ZKO - Zarządzanie Konfiguracją Oprogramowania.canvas"},
 		{"id":"2536eb44dbdefa0d","x":731,"y":880,"width":724,"height":784,"type":"file","file":"Inżynieria Oprogramowania/1 - Kryzys Oprogramowania/CANVAS/Kryzys Oprogramowania.canvas"},
+		{"id":"43246a4ed21d7baf","x":-181,"y":-1663,"width":380,"height":117,"type":"text","text":"# Fazy cyklu życia oprogramowania"},
+		{"id":"15ac1516ed46ee7b","x":-184,"y":-87,"width":511,"height":414,"type":"file","file":"Inżynieria Oprogramowania/0 - Inżynieria Oprogramowania/Inżynieria Oprogramowania.md"},
 		{"id":"7e3f14066f372b23","x":-99,"y":880,"width":710,"height":910,"type":"file","file":"Inżynieria Oprogramowania/12 - ZJO (Zapewnienie Jakości Oprogramowania)/CANVAS/ZJO - Zapewnienie Jakości Oprogramowania.canvas"},
 		{"id":"65d7652f9337070d","x":-374,"y":-1235,"width":808,"height":708,"type":"file","file":"Inżynieria Oprogramowania/2 - Metodyki i Metodologie/CANVAS/Metodyki i Metodologie.canvas"},
 		{"id":"4af20bd809a34bc5","x":1822,"y":-1828,"width":604,"height":788,"type":"file","file":"Inżynieria Oprogramowania/10 - Narzędzia CASE/CANVAS/Narzędzia CASE.canvas"},
@@ -19,7 +18,9 @@
 		{"id":"eaeef2ed6d9b97f7","x":-1786,"y":327,"width":729,"height":442,"type":"file","file":"Inżynieria Oprogramowania/0 - Inżynieria Oprogramowania/Zagadnienia IO.md"},
 		{"id":"be4b0d7dc4398cef","x":-1280,"y":-812,"width":601,"height":675,"type":"file","file":"Inżynieria Oprogramowania/0 - Inżynieria Oprogramowania/Formalne transformacje.md"},
 		{"id":"388bf6e194127c72","x":-2216,"y":-703,"width":795,"height":533,"type":"file","file":"Inżynieria Oprogramowania/0 - Inżynieria Oprogramowania/Matematyka jako element informatyki.md"},
-		{"id":"70ee1b14f96be64a","x":-2018,"y":-87,"width":400,"height":364,"color":"1","type":"file","file":"Inżynieria Oprogramowania/0 - Inżynieria Oprogramowania/Cechy dobrego oprogramowania.md"}
+		{"id":"70ee1b14f96be64a","x":-2018,"y":-87,"width":400,"height":364,"color":"1","type":"file","file":"Inżynieria Oprogramowania/0 - Inżynieria Oprogramowania/Cechy dobrego oprogramowania.md"},
+		{"id":"348518a724bf4599","x":-3593,"y":-2942,"width":784,"height":874,"type":"file","file":"Inżynieria Oprogramowania/3 - Faza I, Faza Strategiczna/CANVAS/Faza Strategiczna.canvas"},
+		{"id":"32b4b825fc7d1ecd","x":-2616,"y":-2832,"width":400,"height":778,"type":"file","file":"Inżynieria Oprogramowania/4 - Faza II, Faza Określenia Wymagań/CANVAS/Faza Określenia Wymagań.canvas"}
 	],
 	"edges":[
 		{"id":"322225e9d5a97310","fromNode":"15ac1516ed46ee7b","fromSide":"left","toNode":"70ee1b14f96be64a","toSide":"right","color":"1"},
@@ -40,6 +41,7 @@
 		{"id":"280de8cd8b2cd4d9","fromNode":"15ac1516ed46ee7b","fromSide":"bottom","toNode":"7e3f14066f372b23","toSide":"top"},
 		{"id":"be46f5e8f5ea188b","fromNode":"15ac1516ed46ee7b","fromSide":"bottom","toNode":"c284f64938616eb8","toSide":"top"},
 		{"id":"7336dead4e39878a","fromNode":"15ac1516ed46ee7b","fromSide":"right","toNode":"9826ee0d8d8f79ea","toSide":"left"},
-		{"id":"e8e7230405c01573","fromNode":"15ac1516ed46ee7b","fromSide":"right","toNode":"3a5494a0646f7194","toSide":"left"}
+		{"id":"e8e7230405c01573","fromNode":"15ac1516ed46ee7b","fromSide":"right","toNode":"3a5494a0646f7194","toSide":"left"},
+		{"id":"ed6c6c0c88b01f4f","fromNode":"43246a4ed21d7baf","fromSide":"top","toNode":"32b4b825fc7d1ecd","toSide":"bottom"}
 	]
 }

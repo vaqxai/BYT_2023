@@ -1,8 +1,9 @@
 ![[Załączniki/Określenie wymagań.png]]
 
-Celem tej fazy jest ustalenie wymagań klienta wobec tworzonego systemu. Dokonywana jest zamiana celów klienta na konkretne wymagania zapewniające osiągnięcie tych celów. 
+Celem tej fazy jest ustalenie wymagań klienta wobec tworzonego systemu. *Dokonywana jest zamiana celów klienta na konkretne wymagania zapewniające osiągnięcie tych celów.*
 
 >[!Important] Klient rzadko wie, jakie wymagania zapewnią osiągnięcie jego celów.
+>
 
 W związku z tym ta faza to nie  proste zebranie wymagań lecz skomplikowany proces, w którym klient i producent konstruują zbiór wymagań zgodny z celami. 
 
@@ -10,7 +11,7 @@ Faza wymaga dużego zaangażowania ze strony klienta, przyszłych użytkowników
 
 # Trudności z określaniem wymagań
 - Klient nie wie w jaki sposób chce osiągnąć swoje cele; te cele mogą być osiągnięte na wiele sposobów
-- Duże systemy mają wiele użytkownikó, ich cele często są sprzeczne. Różni użytkownicy mogą mieć inną terminologie na te same problemy.
+- Duże systemy mają wiele użytkowników, a ich cele często są sprzeczne. Różni użytkownicy mogą mieć inną terminologie na te same problemy.
 - Zleceniodawcy i użytkownicy to inne osoby. Głos zleceniodawców może być decydujący, mimo że nie zawsze potrafią przewidzieć potrzeby użytkowników.
 
 # Zalecenia dla tej fazy

@@ -1,6 +1,6 @@
 ![[Załączniki/Faza Strategiczna.png]]
 
-Faza strategiczna (studium osiągalności) – to faza poprzedzająca decyzję o realizacji przedsięwzięcia. Jest nazywana również SPRI czyli Strategicznym Planem Rozwoju Informatyzacji
+Faza strategiczna (*studium osiągalności*) – to faza poprzedzająca decyzję o realizacji przedsięwzięcia. Jest nazywana również SPRI czyli Strategicznym Planem Rozwoju Informatyzacji
 
 # Czynności
 1. Dokonanie serii wywiadów z klientem
@@ -21,6 +21,6 @@ Warto pamiętać, że klient to nie tylko zleceniodawca ale również przyszły 
 
 Określenie celów z punktu widzenia klienta nie zawsze jest łatwe, jednak jest krytyczne do realizacji projektu. Próby określenia tych celów często powodują konflikty na linii wykonawca-klient
 
-Równie wazne co cele, są ograniczenia (tj. finansowe, prawne, infrastruktury, zasobów ludzkichm, czasowe itd.)
+Równie ważne co cele, są ograniczenia (tj. finansowe, prawne, infrastruktury, zasobów ludzkich, czasowe itd.)
 
 Po wykonaniu tej fazy klient może odrzucić proponowane rozwiązanie, więc nie powinna być przeprowadzana na koszt wykonawcy.

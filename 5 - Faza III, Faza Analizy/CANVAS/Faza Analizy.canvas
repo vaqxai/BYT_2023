@@ -1,17 +1,18 @@
 {
 	"nodes":[
-		{"id":"436c9f0012d9b643","x":-839,"y":-1529,"width":762,"height":890,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Wymagania na oprogramowanie.md"},
-		{"id":"0e24e5593d635d17","x":-1666,"y":-1209,"width":758,"height":580,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Zapewnienie jakości fazy analizy.md"},
-		{"id":"f948b5d4997de9ec","x":-1358,"y":-267,"width":900,"height":1949,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Faza analizy.md"},
-		{"id":"2839bb883cdf21b7","x":-223,"y":557,"width":699,"height":437,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Metodyki obiektowe.md"},
-		{"id":"12b4158059d262bb","x":-223,"y":-96,"width":699,"height":524,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Załączniki/Metodyki strukturalne.md"},
-		{"id":"f5482b0c697d79dc","x":797,"y":493,"width":586,"height":719,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Notacja VS metodyka.md"},
-		{"id":"c8cdb18db4f928b8","x":-189,"y":1312,"width":621,"height":671,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Tworzenie modelu obiektowego.md"},
-		{"id":"4331a2912b5bad46","x":-2321,"y":34,"width":862,"height":1347,"color":"2","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Model analityczny.md"},
-		{"id":"aca5fdbb656da5d9","x":797,"y":-253,"width":586,"height":574,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Różnice między metodykami analizy strukturalnej i obiektowej.md"},
-		{"id":"81d52272744cc0ea","x":476,"y":1312,"width":536,"height":507,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/UML.md"},
-		{"id":"f01eb4e374434768","x":-29,"y":2046,"width":301,"height":95,"type":"text","text":"Dodatkowo do dokumentu specyfikacji wymagań:"},
-		{"id":"9c8e6d90d570bda1","x":-138,"y":2198,"width":520,"height":449,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Załączniki/Specyfikacja wymagań na oprogramowanie pt 2.png"}
+		{"id":"12b4158059d262bb","x":-223,"y":-96,"width":581,"height":470,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Załączniki/Metodyki strukturalne.md"},
+		{"id":"f948b5d4997de9ec","x":-1154,"y":-158,"width":617,"height":1516,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Faza analizy.md"},
+		{"id":"4331a2912b5bad46","x":-1850,"y":-39,"width":569,"height":1278,"color":"2","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Model analityczny.md"},
+		{"id":"b6e3a39fd1d012fa","x":-1045,"y":1420,"width":400,"height":237,"type":"file","file":"Rezultaty fazy analizy.md"},
+		{"id":"2839bb883cdf21b7","x":-223,"y":441,"width":604,"height":366,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Metodyki obiektowe.md"},
+		{"id":"c8cdb18db4f928b8","x":-457,"y":986,"width":621,"height":671,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Tworzenie modelu obiektowego.md"},
+		{"id":"f01eb4e374434768","x":-297,"y":1720,"width":301,"height":95,"type":"text","text":"Dodatkowo do dokumentu specyfikacji wymagań:"},
+		{"id":"9c8e6d90d570bda1","x":-406,"y":1872,"width":520,"height":449,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Załączniki/Specyfikacja wymagań na oprogramowanie pt 2.png"},
+		{"id":"81d52272744cc0ea","x":208,"y":986,"width":536,"height":507,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/UML.md"},
+		{"id":"0e24e5593d635d17","x":-1632,"y":-967,"width":758,"height":580,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Zapewnienie jakości fazy analizy.md"},
+		{"id":"436c9f0012d9b643","x":-845,"y":-1232,"width":762,"height":845,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Wymagania na oprogramowanie.md"},
+		{"id":"aca5fdbb656da5d9","x":566,"y":-145,"width":586,"height":431,"type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Różnice między metodykami analizy strukturalnej i obiektowej.md"},
+		{"id":"f5482b0c697d79dc","x":566,"y":338,"width":586,"height":573,"color":"1","type":"file","file":"Inżynieria Oprogramowania/5 - Faza III, Faza Analizy/Notacja VS metodyka.md"}
 	],
 	"edges":[
 		{"id":"98dae8ec2c2f5ef4","fromNode":"f01eb4e374434768","fromSide":"bottom","toNode":"9c8e6d90d570bda1","toSide":"top"},
@@ -26,6 +27,7 @@
 		{"id":"a06d1488a98c3a09","fromNode":"2839bb883cdf21b7","fromSide":"right","toNode":"f5482b0c697d79dc","toSide":"left","color":"1"},
 		{"id":"38ab93390d699d8e","fromNode":"2839bb883cdf21b7","fromSide":"bottom","toNode":"c8cdb18db4f928b8","toSide":"top"},
 		{"id":"edbac91094536608","fromNode":"2839bb883cdf21b7","fromSide":"right","toNode":"aca5fdbb656da5d9","toSide":"left"},
-		{"id":"77239951d4c9f195","fromNode":"12b4158059d262bb","fromSide":"right","toNode":"aca5fdbb656da5d9","toSide":"left"}
+		{"id":"77239951d4c9f195","fromNode":"12b4158059d262bb","fromSide":"right","toNode":"aca5fdbb656da5d9","toSide":"left"},
+		{"id":"05d717fbf87e8d03","fromNode":"f948b5d4997de9ec","fromSide":"bottom","toNode":"b6e3a39fd1d012fa","toSide":"top"}
 	]
 }

@@ -1,4 +1,4 @@
-COnstructive COst MOdel – oparte na formułach pozwalających oszacować koszt przedsięwzięcia na podstawie oszacowanej liczby linii kodu. Jest to główna słabość tej metody, ponieważ:
+**COnstructive COst MOdel** – oparte na formułach pozwalających oszacować koszt przedsięwzięcia na podstawie oszacowanej liczby linii kodu. Jest to główna słabość tej metody, ponieważ:
 - Liczba staje się przewidywalna dopiero na końcu fazy projektowania architektury systemu; za późno
 - Pojęcie “linii kodu” zależy od technologii i przyjętych konwencji
 - Pojęcie nie ma zastosowania do nowoczesnych technik programistycznych tj. programowanie wizyjne

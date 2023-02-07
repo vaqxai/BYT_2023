@@ -1,4 +1,4 @@
-Składają się na nie:
+**Składają się na nie:**
 - Rozmiar projektu w porównaniu z rozmiarem zespołu i czasu
 - Dostępność zasobów
 - Ograniczenia czasowe
